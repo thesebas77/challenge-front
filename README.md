@@ -15,14 +15,16 @@ Para instalar las dependencias del proyecto, sigue estos pasos:
 3. La version de node debe ser la 18.
 4. Ejecuta el siguiente comando para instalar las dependencias:
 
-```bash npm install
+```bash 
+    npm install
 ```
 
 ## Ejecutar el Proyecto
 
 Una vez instaladas las dependencias, puedes iniciar el servidor de desarrollo con el siguiente comando:
 
-```bash npm run dev
+```bash 
+    npm run dev
 ```
 
 Después de ejecutar este comando, podrás acceder a tu aplicación Next.js localmente en `http://localhost:3000`.
